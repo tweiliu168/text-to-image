@@ -1,6 +1,7 @@
 # text-to-image
 Installation instructions:  
-    - No installation needed. Simply click on index.html to open to web interface.
+    - Download as ZIP and extract all files  
+    - Click on index.html to open web interface
 
 Technologies used:  
     - HTML  
