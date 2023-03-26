@@ -1,5 +1,5 @@
 # text-to-image
-Installation instructions:
+Installation instructions:  
     - No installation needed. Simply click on index.html to open to web interface.
 
 Technologies used:  
